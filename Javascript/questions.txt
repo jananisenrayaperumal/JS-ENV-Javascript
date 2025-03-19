@@ -46,4 +46,128 @@
  34. What is the difference between an event object and a custom event in JavaScript?
  35. How do you optimize performance in JavaScript applications?
 
+New questions
+// ********** Basic JavaScript Questions **********
+
+// 1. What are the differences between Java and JavaScript?
+// 2. What are the different data types in JavaScript?
+// 3. Explain hoisting in JavaScript.
+// 4. What is the purpose of the 'typeof' operator in JavaScript?
+// 5. How does JavaScript handle type coercion?
+// 6. What is the difference between 'null' and 'undefined' in JavaScript?
+// 7. Explain the concept of closures in JavaScript.
+// 8. How does the 'this' keyword work in JavaScript?
+// 9. What is the difference between '==' and '===' in JavaScript?
+// 10. How can you create a private variable in JavaScript?
+// 11. What is the purpose of the 'call()' method in JavaScript?
+// 12. Explain the concept of lexical scoping.
+// 13. What is the difference between local and global scope?
+// 14. What is a callback function in JavaScript?
+// 15. How does JavaScript handle errors (try-catch)?
+// 16. Explain the difference between synchronous and asynchronous programming.
+// 17. What is an Immediately Invoked Function Expression (IIFE)?
+// 18. What is a JavaScript promise, and how do you use it?
+// 19. Explain the concept of destructuring in JavaScript.
+// 20. What are template literals, and how do they work?
+
+// ********** Advanced JavaScript Questions **********
+
+// 21. What are promises in JavaScript, and how do they work?
+// 22. Explain async/await in JavaScript and its benefits.
+// 23. What is event delegation in JavaScript, and why is it useful?
+// 24. How does the JavaScript event loop work?
+// 25. What is the purpose of the 'bind' method in JavaScript?
+// 26. Explain the concept of prototypal inheritance in JavaScript.
+// 27. What are generator functions in JavaScript, and how do they work?
+// 28. How can you implement inheritance in JavaScript?
+// 29. What are higher-order functions in JavaScript?
+// 30. Explain the module pattern in JavaScript.
+// 31. What is the purpose of the 'new' keyword in JavaScript?
+// 32. What are JavaScript closures, and how do they work in real-world examples?
+// 33. Explain the concept of call stack in JavaScript.
+// 34. What is event bubbling and event capturing in JavaScript?
+// 35. What is the spread operator in JavaScript, and how is it different from the rest parameter?
+// 36. Explain the difference between shallow copy and deep copy in JavaScript.
+// 37. What is the purpose of the `Object.create()` method in JavaScript?
+// 38. What is a JavaScript module, and how do you use them in ES6?
+// 39. How do you avoid callback hell in JavaScript?
+// 40. What are the differences between function expressions and function declarations?
+
+// ********** JavaScript in Browser Environment **********
+
+// 41. What is the DOM, and how does JavaScript interact with it?
+// 42. Explain the difference between 'document.getElementById' and 'document.querySelector'.
+// 43. What is event delegation in JavaScript, and how does it work in the DOM?
+// 44. How do you change an element's content using JavaScript (innerHTML, textContent)?
+// 45. How can you modify the style of an HTML element using JavaScript?
+// 46. What is the purpose of the 'defer' and 'async' attributes in script tags?
+// 47. What are the differences between localStorage, sessionStorage, and cookies in JavaScript?
+// 48. How can you handle events in JavaScript? Explain different event listeners.
+// 49. What is the purpose of the 'window.onload' method in JavaScript?
+// 50. How do you prevent the default behavior of an event in JavaScript?
+// 51. What is the purpose of the `setTimeout()` and `setInterval()` functions in JavaScript?
+// 52. How do you handle form validation using JavaScript?
+// 53. What is the use of 'document.createElement()' in JavaScript?
+// 54. How can you add an event listener to an element dynamically?
+
+// ********** JavaScript Performance and Optimization **********
+
+// 55. How can you improve the performance of a JavaScript application?
+// 56. What are web workers in JavaScript, and how do they work?
+// 57. Explain the concepts of debouncing and throttling in JavaScript.
+// 58. How can you prevent memory leaks in JavaScript?
+// 59. What is the purpose of the 'use strict' directive in JavaScript?
+// 60. What are some best practices for optimizing JavaScript performance?
+// 61. How do you handle large datasets in JavaScript without slowing down the application?
+// 62. What is a critical rendering path in JavaScript, and how can you optimize it?
+// 63. What are some techniques to reduce JavaScript's impact on page load time?
+// 64. How do you make a website responsive using JavaScript?
+// 65. What is lazy loading in JavaScript, and how can you implement it?
+// 66. How do you optimize JavaScript code execution using techniques like code splitting or tree shaking?
+
+// ********** JavaScript Testing **********
+
+// 67. What is unit testing in JavaScript, and why is it important?
+// 68. What are some popular testing frameworks for JavaScript (e.g., Mocha, Jasmine, Jest)?
+// 69. How do you mock dependencies in JavaScript tests?
+// 70. Explain the concept of test-driven development (TDD) in JavaScript.
+// 71. What is the difference between 'beforeEach' and 'afterEach' hooks in testing frameworks?
+// 72. How do you perform integration testing in JavaScript?
+// 73. How do you test asynchronous code in JavaScript?
+// 74. What is snapshot testing in JavaScript, and how do you use it?
+// 75. How can you test DOM manipulation in JavaScript?
+// 76. What is code coverage, and how do you measure it in JavaScript?
+
+// ********** JavaScript and Security **********
+
+// 77. What is Cross-Site Scripting (XSS), and how can you prevent it in JavaScript?
+// 78. Explain Cross-Site Request Forgery (CSRF) and how to prevent it.
+// 79. What are some common security vulnerabilities in JavaScript applications?
+// 80. How does the Same-Origin Policy work in browsers?
+// 81. What is CORS, and how can you handle it in JavaScript applications?
+// 82. What are Content Security Policies (CSP), and how do they work in JavaScript applications?
+// 83. What is HTTPS, and why is it important for security in JavaScript applications?
+// 84. How can you securely store sensitive information like passwords in JavaScript?
+// 85. What are some strategies to protect JavaScript applications from Man-in-the-Middle (MITM) attacks?
+
+// ********** JavaScript ES6 and Beyond **********
+
+// 86. What are arrow functions, and how do they differ from traditional functions in JavaScript?
+// 87. What is destructuring in JavaScript, and how does it work?
+// 88. Explain the difference between 'let' and 'const' in JavaScript.
+// 89. How does the spread operator work in JavaScript? Provide examples.
+// 90. What is the rest parameter in JavaScript, and how does it differ from the spread operator?
+// 91. Explain the difference between 'map()' and 'forEach()' in JavaScript.
+// 92. What are default parameters in JavaScript, and how do you use them?
+// 93. What are template literals in JavaScript, and how do they work?
+// 94. What is the 'Promise.all()' method, and how do you use it?
+// 95. What is the 'async/await' syntax, and how does it improve code readability?
+
+// ********** JavaScript Miscellaneous **********
+
+// 96. What is the 'this' keyword in JavaScript, and how does it behave in different contexts?
+// 97. Explain the concept of "callback hell" and how to avoid it.
+// 98. How do you perform deep cloning of objects in JavaScript?
+// 99. What is destructuring assignment, and how do you use it in JavaScript?
+// 100. What are some common methods for handling asynchronous JavaScript code?
 
